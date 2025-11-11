@@ -59,19 +59,47 @@ To build an interactive analytical dashboard that tracks sales KPIs, identifies 
 ---
 
 ## 🖼 6. Snapshorts
-### **📊Dashboard**
 
-<img src="https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard.png" width="850"/>
+---
+
+### **📊 Dashboard Overview**
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Dashboard%201.png" width="850"/>
 
 <br/>
 
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Dashboard%202.png" width="850"/>
 
-<img src="https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard%202.png" width="850"/>
-
-### **📊 Data Charts (after eds)**
-<img src="https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard%202.png" width="850"/>
 ---
 
+### **📈 Data Charts (Python EDA Results)**  
+Below are the charts generated during Exploratory Data Analysis (EDA), taken from the *Snapshort of Data Charts* folder.
+
+<br/>
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Snapshort%20of%20Monthly%20Sales%20Trend.png" width="850"/>
+
+<br/>
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Top%2010%20Products.png" width="850"/>
+
+<br/>
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Total%20Sales%20by%20channel.png" width="850"/>
+
+<br/>
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Customer%20Segmentation.png" width="850"/>
+
+<br/>
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Consumer%20by%20Revenue.png" width="850"/>
+
+<br/>
+
+<img src="https://github.com/Akshat-Shailendra-Trivedi/Sales-And-Revenue-Analysis/blob/main/Snapshort%20of%20Data%20Charts/Correlation%20Heatmap.png" width="850"/>
+
+---
 
 ---
 
